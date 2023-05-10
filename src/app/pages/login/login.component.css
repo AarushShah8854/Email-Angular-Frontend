@@ -1,0 +1,15 @@
+.logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid lightblue;
+}
+
+.full-width {
+    width: 100%;
+}
+
+button {
+    width: 80px;
+}
